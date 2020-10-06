@@ -1,0 +1,25 @@
+css.css
+html,body{
+    margin: 0;
+    height: 100%;
+}
+body{
+    background-color: rgb(196, 202, 207);
+}
+
+  img
+{
+    widows: 3px;
+}  
+table{
+    border:1px solid #ccc;}
+table td{
+    border: none;
+    }
+span{
+    padding-right:0px;width:10em;display:block;float:left;line-height:26px;
+}
+celan{
+    text-align: left;
+    color: cornflowerblue;
+}
